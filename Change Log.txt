@@ -1,0 +1,6 @@
+Change Log:
+v1.1
+Updated to support 1.6.4 of Minecraft
+Too Many blocks added to list
+v1.0
+Initial Release
