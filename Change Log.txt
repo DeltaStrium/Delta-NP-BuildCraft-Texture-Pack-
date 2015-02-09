@@ -1,4 +1,11 @@
 Change Log:
+V1.2
+Updated to 1.7.10
+Added New Robot Textures
+Added New Machine Textures
+Added New Item Textures
+Added New Plasma Texture
+Added GUI Overhall
 v1.1
 Updated to support 1.6.4 of Minecraft
 Too Many blocks added to list
