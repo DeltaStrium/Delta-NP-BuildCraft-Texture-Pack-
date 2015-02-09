@@ -10,6 +10,7 @@ Credits:
 * SirSengir & The Buildcraft Team [For creating Buildcraft Mod]
 * Nuttyprot [for Creating the textures][Retired From Texturing
 * TempusBD [For Texture Contributions]
+* celittle3 [For Texture Contributions]
 * DrakeBD [Editing and Creating the pack]
 
 Licensing:
